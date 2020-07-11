@@ -18,6 +18,11 @@ Google GDE: https://bit.ly/2ZhzzMh
 
 💬 Some of my Talks :  https://bit.ly/38FAwB2
 
+📁 Some of my Presentation slides :   
+
+Slides : https://slides.com/sajeetharan
+Slideshare : https://www.slideshare.net/SajeetharanSinnathur
+
 📫 How to reach me: https://sajeetharan.com/
 
 
