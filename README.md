@@ -28,6 +28,6 @@ Slideshare : https://www.slideshare.net/SajeetharanSinnathur
 
 😄 Pronouns: he/him/his
 
-⚡ Fun fact: I earned my first money at the age of 12,  I was the only kid in my class who knew windows installation, as well as cracking windows password
+⚡ Fun fact: I love to leave my phone unanswered and then text them to know why they had called.
 
 ![](https://i.stack.imgur.com/XshE9.gif)
