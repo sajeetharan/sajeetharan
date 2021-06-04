@@ -4,7 +4,7 @@
 
 🌱 I’ve blogged here for nearly 10 years https://sajeetharan.com/
 
-💬 Ask me about: Azure, Angular, Application Modernization   (CloudNative,Devops,Serverless)
+💬 Ask me about: Azure, Angular, CosmosDB & Application Modernization   (CloudNative,Devops,Serverless)
 
 Former MVP: https://bit.ly/3iPx1MP
 
