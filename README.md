@@ -16,7 +16,7 @@ Google GDE: https://bit.ly/2ZhzzMh
 
 🤔 I’m on Twitter : http://twitter.com/kokkisajee
 
-💬 Youtube :  https://bit.ly/38FAwB2
+💬 Youtube :  https://www.youtube.com/channel/sajeetharan
 
 📁 Some of my Presentation slides :   
 
