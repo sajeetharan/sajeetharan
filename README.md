@@ -52,7 +52,7 @@ If you like my work, please consider buying me a coffee :coffee:
 [<img align="left" alt="Buy Me A Coffee" height="40" width="160" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />][buy me a coffee]
 
 
-[website]: https://sajeetahran.com/
+[website]: https://sajeetharan.com/
 [facebook]: https://www.facebook.com/kokkisajee
 [twitter]: https://twitter.com/kokkisajee
 [linkedin]: https://www.linkedin.com/in/sajeetharan
