@@ -2,7 +2,7 @@
 
 ### I like to Code and help developers to GROW + THRIVE in TECH!
 
-- 🔭 🔭 I’m currently working on making Microsoft's premiere globally distributed NoSQL database (Cosmos DB) as the preferred choice for developers
+- 🔭 I’m currently working on making Microsoft's premiere globally distributed NoSQL database (Cosmos DB) as the preferred choice for developers
 - 💬 Ask me about Cosmos DB, Angular, Azure , OSS
 - 📫 How to reach me: [@kokkisajee][twitter]
 
