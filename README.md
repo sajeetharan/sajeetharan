@@ -28,6 +28,7 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Leveraging Partial Document Update with with Cosmos DB REST Operation](https://sajeetharan.com/2022/02/22/leveraging-partial-document-update-with-with-cosmos-db-rest-operation/)
 - [Cosmos DB Pagination & Continuation Tokens with JavaScript](https://sajeetharan.com/2022/02/08/cosmos-db-pagination-continuation-tokens-with-javascript/)
 - [https://sajeetharan.com/2021/05/27/getting-started-with-cosmos-db-sql-api/](https://sajeetharan.com/2021/05/27/getting-started-with-cosmos-db-sql-api/)
 - [Publish an Angular Application to Azure static web apps with Azure Devops](https://sajeetharan.com/2021/04/02/azure-static-web-apps-with-azure-devops/)
