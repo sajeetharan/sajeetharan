@@ -17,6 +17,17 @@
 <br />
 <br />
 
+## Stackoverflow and Github Contributions
+
+[![Sajee's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1749403)](https://stackoverflow.com/users/1749403/sajeetharan)
+![image](https://user-images.githubusercontent.com/4833351/197402724-782d9286-fe91-48b8-9cef-d5f376c57079.png)
+
+
+| <a href="https://github.com/Sajeetharan/Sajeetharan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sajeetharan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sajee's github stats" /></a> | <a href="https://github.com/Sajeetharan/Sajeetharan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajeetharan&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
+
 ## 👨‍💻 Languages and Tools
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,15 +46,11 @@
 - [https://sajeetharan.com/2021/01/06/vscode-instant-code-editing-codespaces/](https://sajeetharan.com/2021/01/06/vscode-instant-code-editing-codespaces/)
 <!-- BLOG-POST-LIST:END -->
 
-
 ## 📕 Publications : Technical Reviewer
 
 - [Angular Projects](https://www.amazon.com/gp/product/1838559353/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1838559353&linkCode=as2&tag=angularprojec-20&linkId=872dd8781afb388a8f6e36151db21d40)
 - [Building Serverless Apps with Azure Functions and Cosmos DB](https://www.amazon.com/dp/9389328381/ref=sr_1_1?dchild=1&keywords=Building+Serverless+apps+with+Azure+Functions+and+Cosmos+DB+bpb)
 ---
-
-| <a href="https://github.com/Sajeetharan/Sajeetharan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sajeetharan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sajee's github stats" /></a> | <a href="https://github.com/Sajeetharan/Sajeetharan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajeetharan&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
 <br />
 
