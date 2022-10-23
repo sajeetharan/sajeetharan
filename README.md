@@ -19,7 +19,6 @@
 
 ## Stackoverflow and Github Contributions
 
-[![Sajee's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1749403)](https://stackoverflow.com/users/1749403/sajeetharan)
 ![image](https://user-images.githubusercontent.com/4833351/197402724-782d9286-fe91-48b8-9cef-d5f376c57079.png)
 
 
