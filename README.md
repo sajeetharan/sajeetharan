@@ -34,16 +34,6 @@
 <br />
 <br />
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Leveraging Partial Document Update with with Cosmos DB REST Operation](https://sajeetharan.com/2022/02/22/leveraging-partial-document-update-with-with-cosmos-db-rest-operation/)
-- [Cosmos DB Pagination & Continuation Tokens with JavaScript](https://sajeetharan.com/2022/02/08/cosmos-db-pagination-continuation-tokens-with-javascript/)
-- [https://sajeetharan.com/2021/05/27/getting-started-with-cosmos-db-sql-api/](https://sajeetharan.com/2021/05/27/getting-started-with-cosmos-db-sql-api/)
-- [Publish an Angular Application to Azure static web apps with Azure Devops](https://sajeetharan.com/2021/04/02/azure-static-web-apps-with-azure-devops/)
-- [https://sajeetharan.com/2021/01/06/vscode-instant-code-editing-codespaces/](https://sajeetharan.com/2021/01/06/vscode-instant-code-editing-codespaces/)
-<!-- BLOG-POST-LIST:END -->
-
 ## 📕 Publications : Technical Reviewer
 
 - [Angular Projects](https://www.amazon.com/gp/product/1838559353/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1838559353&linkCode=as2&tag=angularprojec-20&linkId=872dd8781afb388a8f6e36151db21d40)
@@ -58,7 +48,7 @@ If you like my work, please consider buying me a coffee :coffee:
 [<img align="left" alt="Buy Me A Coffee" height="40" width="160" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />][buy me a coffee]
 
 
-[website]: https://sajeetharan.com/
+[website]: https://www.sajeetharan.dev/
 [facebook]: https://www.facebook.com/kokkisajee
 [twitter]: https://twitter.com/kokkisajee
 [linkedin]: https://www.linkedin.com/in/sajeetharan
