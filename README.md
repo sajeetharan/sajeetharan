@@ -6,7 +6,7 @@
 
 *Empowering developers through cloud platforms, databases, and AI innovation*
 
-[![Website](https://img.shields.io/badge/sajeetharan.dev-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sajeetharan.dev)
+[![Website](https://img.shields.io/badge/sajeetharan.dev-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sajeetharan.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajeetharan)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kokkisajee)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@coffeewithazurecosmosdb)
@@ -40,7 +40,7 @@ I'm a **Principal Product Manager at Microsoft**, working on [Azure Cosmos DB](h
 | 🌐 | **Top 10 globally** on Stack Overflow for Azure, Angular & Azure Cosmos DB |
 | 🏅 | First **Google Developer Expert (GDE)** from Sri Lanka |
 | 🏅 | First **Microsoft MVP** in developer technologies from Sri Lanka |
-| 🎤 | **50+ conference talks** across 5+ countries (Singapore, Thailand, India, Sri Lanka, Virtual) |
+| 🎤 | **15+ conference talks** across 5+ countries (Singapore, Thailand, India, Sri Lanka, Virtual) |
 | 📦 | **1,000+ GitHub contributions/year** across 40+ repositories |
 | 👥 | Member of **microsoft**, **Azure**, **dotnet**, **dotnet-foundation**, **Azure-Samples**, **MicrosoftDocs** orgs |
 | 📚 | **Technical reviewer** for published books on Angular and Azure serverless |
@@ -49,44 +49,9 @@ I'm a **Principal Product Manager at Microsoft**, working on [Azure Cosmos DB](h
 
 ---
 
-## 🔥 Featured Open Source Projects
+## 🔥 Open Source Projects
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/AzureCosmosDB/MCPToolKit">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AzureCosmosDB&repo=MCPToolKit&theme=github_dark&hide_border=true" />
-      </a>
-      <br/>
-      <sub><b>Author</b> · MCP server for Azure Cosmos DB — enables AI agents to query, discover schemas, and perform vector search</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/AzureCosmosDB/cosmosdb-agent-kit">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AzureCosmosDB&repo=cosmosdb-agent-kit&theme=github_dark&hide_border=true" />
-      </a>
-      <br/>
-      <sub><b>Author</b> · AI coding agent skills for Azure Cosmos DB with 45+ optimization rules across 8 categories</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/sajeetharan/angular-agent-kit">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sajeetharan&repo=angular-agent-kit&theme=github_dark&hide_border=true" />
-      </a>
-      <br/>
-      <sub><b>Author</b> · AI coding agent skills for Angular — works with GitHub Copilot, Claude, Cursor, Gemini</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/AzureCosmosDB/cosmosdb-nosql-copilot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AzureCosmosDB&repo=cosmosdb-nosql-copilot&theme=github_dark&hide_border=true" />
-      </a>
-      <br/>
-      <sub><b>Author</b> · Copilot application with Azure OpenAI Service, Azure Cosmos DB & Azure App Service</sub>
-    </td>
-  </tr>
-</table>
-
-> 🔗 See all projects at [sajeetharan.dev/projects](https://sajeetharan.dev/projects)
+> 🔗 Check out all my projects at [sajeetharan.dev/projects](https://sajeetharan.dev/projects)
 
 ---
 
@@ -110,13 +75,13 @@ I'm a **Principal Product Manager at Microsoft**, working on [Azure Cosmos DB](h
 <div align="center">
 
 <a href="https://github.com/sajeetharan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sajeetharan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajeetharan&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sajeetharan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajeetharan&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </a>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sajeetharan&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=sajeetharan&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -127,8 +92,12 @@ I'm a **Principal Product Manager at Microsoft**, working on [Azure Cosmos DB](h
 <div align="center">
 
 <a href="https://stackoverflow.com/users/1749403/sajeetharan">
-  <img src="https://github-readme-stackoverflow.vercel.app/?userID=1749403&theme=dark" alt="Stack Overflow Stats" />
+  <img src="https://stackoverflow.com/users/flair/1749403.png?theme=dark" alt="Stack Overflow profile for sajeetharan" width="208" height="58" />
 </a>
+
+<br/>
+
+*#1 contributor from Sri Lanka · Top 10 globally for Azure, Angular & Azure Cosmos DB*
 
 </div>
 
