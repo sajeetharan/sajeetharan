@@ -6,13 +6,15 @@ from io import BytesIO
 from pathlib import Path
 
 import requests
-from PIL import Image, ImageEnhance, ImageOps
+from PIL import Image, ImageEnhance
 
 USERNAME = os.getenv("GITHUB_USERNAME", "sajeetharan")
 TOKEN = os.getenv("GITHUB_TOKEN")
 ROOT = Path(__file__).parent
 API = "https://api.github.com"
 CHARACTERS = "@%#*+=-:. "
+PORTRAIT_WIDTH = 46
+PORTRAIT_HEIGHT = 24
 
 DETAILS = [
     ("Experience", "15 years, 2 months"),
@@ -132,15 +134,13 @@ def avatar_ascii() -> list[str]:
     )
     response.raise_for_status()
     image = Image.open(BytesIO(response.content)).convert("RGB")
-    width, height = image.size
-    image = image.crop((width * 0.1, height * 0.02, width * 0.9, height * 0.96))
-    image = ImageOps.fit(image, (46, 27), method=Image.Resampling.LANCZOS)
+    image = image.resize(
+        (PORTRAIT_WIDTH, PORTRAIT_HEIGHT), Image.Resampling.LANCZOS
+    )
 
     background_samples = [
         image.getpixel((0, 0)),
-        image.getpixel((45, 0)),
-        image.getpixel((0, 26)),
-        image.getpixel((45, 26)),
+        image.getpixel((PORTRAIT_WIDTH - 1, 0)),
     ]
     background = tuple(
         sum(sample[channel] for sample in background_samples) // len(background_samples)
@@ -157,13 +157,16 @@ def avatar_ascii() -> list[str]:
     def character(index: int) -> str:
         color = color_pixels[index]
         distance = sum((color[channel] - background[channel]) ** 2 for channel in range(3)) ** 0.5
-        if distance < 24:
+        if distance < 12:
             return " "
         return CHARACTERS[pixels[index] * (len(CHARACTERS) - 1) // 255]
 
     return [
-        "".join(character(row * 46 + column) for column in range(46)).rstrip()
-        for row in range(27)
+        "".join(
+            character(row * PORTRAIT_WIDTH + column)
+            for column in range(PORTRAIT_WIDTH)
+        ).rstrip()
+        for row in range(PORTRAIT_HEIGHT)
     ]
 
 
