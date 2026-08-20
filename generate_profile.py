@@ -53,6 +53,11 @@ THEMES = {
     },
 }
 
+PORTRAIT_PALETTES = {
+    "dark_mode.svg": ("#ff7b72", "#ffa657", "#f2cc60", "#7ee787", "#79c0ff", "#d2a8ff"),
+    "light_mode.svg": ("#cf222e", "#9a6700", "#4d7c0f", "#1a7f37", "#0969da", "#8250df"),
+}
+
 
 def headers() -> dict[str, str]:
     result = {
@@ -174,9 +179,14 @@ def info_line(label: str, value: object, y: int) -> str:
     )
 
 
-def render_svg(stats: dict[str, object], portrait: list[str], colors: dict[str, str]) -> str:
+def render_svg(
+    stats: dict[str, object],
+    portrait: list[str],
+    colors: dict[str, str],
+    portrait_palette: tuple[str, ...],
+) -> str:
     portrait_lines = "\n".join(
-        f'<text x="34" y="{78 + index * 13}" class="portrait" xml:space="preserve">{escape(line)}</text>'
+        f'<text x="34" y="{78 + index * 13}" class="portrait" fill="{portrait_palette[index * len(portrait_palette) // len(portrait)]}" xml:space="preserve">{escape(line)}</text>'
         for index, line in enumerate(portrait)
     )
 
@@ -214,7 +224,7 @@ def render_svg(stats: dict[str, object], portrait: list[str], colors: dict[str, 
   <desc id="description">ASCII portrait, professional details, contact links, and GitHub statistics for {escape(USERNAME)}.</desc>
   <style>
     .line, .portrait, .section {{ font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 12px; }}
-    .portrait {{ fill: {colors['portrait']}; font-size: 11px; }}
+    .portrait {{ font-size: 11px; }}
     .label {{ fill: {colors['accent']}; }}
     .muted {{ fill: {colors['muted']}; }}
     .value {{ fill: {colors['text']}; }}
@@ -237,7 +247,10 @@ def main() -> None:
     stats = fetch_stats()
     portrait = avatar_ascii()
     for filename, colors in THEMES.items():
-        (ROOT / filename).write_text(render_svg(stats, portrait, colors), encoding="utf-8")
+        (ROOT / filename).write_text(
+            render_svg(stats, portrait, colors, PORTRAIT_PALETTES[filename]),
+            encoding="utf-8",
+        )
     print(
         f"Generated {', '.join(THEMES)} for {USERNAME}: "
         f"{stats['repos']} repos, {stats['stars']} stars, {stats['followers']} followers"
