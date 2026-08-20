@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="520" viewBox="0 0 940 520" role="img" aria-labelledby="title description">
+  <title id="title">Sajeetharan's GitHub profile</title>
+  <desc id="description">ASCII portrait, professional details, contact links, and GitHub statistics for sajeetharan.</desc>
+  <style>
+    .line, .portrait, .section { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 12px; }
+    .portrait { fill: #c9d1d9; font-size: 11px; }
+    .label { fill: #58a6ff; }
+    .muted { fill: #8b949e; }
+    .value { fill: #c9d1d9; }
+    .section { fill: #7ee787; font-weight: 700; }
+  </style>
+  <rect x="1" y="1" width="938" height="518" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <circle cx="22" cy="22" r="5" fill="#ff5f56"/>
+  <circle cx="40" cy="22" r="5" fill="#ffbd2e"/>
+  <circle cx="58" cy="22" r="5" fill="#27c93f"/>
+  <text x="470" y="27" text-anchor="middle" class="line muted">sajeetharan@github: ~</text>
+  <line x1="375" y1="48" x2="375" y2="488" stroke="#30363d"/>
+  <text x="34" y="78" class="portrait" xml:space="preserve">==============#@@@@@@@@@@@@@@@@+==============</text>
+<text x="34" y="91" class="portrait" xml:space="preserve">==============@@@@@@@@@@@@@@@@@#==============</text>
+<text x="34" y="104" class="portrait" xml:space="preserve">=============*@@@@@@%%#%##%@@@@#==============</text>
+<text x="34" y="117" class="portrait" xml:space="preserve">=============*@@@%*+=====++*@@@%==============</text>
+<text x="34" y="130" class="portrait" xml:space="preserve">=============+@@#+=-----==++%@@#==============</text>
+<text x="34" y="143" class="portrait" xml:space="preserve">==============@%+=------==+*%@@#==============</text>
+<text x="34" y="156" class="portrait" xml:space="preserve">==============%@+===--===++*%@@*==============</text>
+<text x="34" y="169" class="portrait" xml:space="preserve">==============#@*+==----=++*#@@+==============</text>
+<text x="34" y="182" class="portrait" xml:space="preserve">==============#%*+=--:--+*#**@@+==============</text>
+<text x="34" y="195" class="portrait" xml:space="preserve">==============*%%%%#=-=*@@@%*%@*==============</text>
+<text x="34" y="208" class="portrait" xml:space="preserve">==============*%%%@#*==**%%#*%#+==============</text>
+<text x="34" y="221" class="portrait" xml:space="preserve">==============+**##+*==*+**#*#*+==============</text>
+<text x="34" y="234" class="portrait" xml:space="preserve">==============+++++++==+====+#++==============</text>
+<text x="34" y="247" class="portrait" xml:space="preserve">==============+*+--=+==+=--=+#*+==============</text>
+<text x="34" y="260" class="portrait" xml:space="preserve">==============+*+-:==--==--=+#*+==============</text>
+<text x="34" y="273" class="portrait" xml:space="preserve">===============++==+*+=#*+==*#+===============</text>
+<text x="34" y="286" class="portrait" xml:space="preserve">===============+*=#%%%%##%#+#*================</text>
+<text x="34" y="299" class="portrait" xml:space="preserve">================#+##====+#**#+================</text>
+<text x="34" y="312" class="portrait" xml:space="preserve">================**+*+--=**+#%=================</text>
+<text x="34" y="325" class="portrait" xml:space="preserve">=================#*+#*+*#*#@#=================</text>
+<text x="34" y="338" class="portrait" xml:space="preserve">=================+%#**#***@@*=================</text>
+<text x="34" y="351" class="portrait" xml:space="preserve">==================#@***+*%@#*=================</text>
+<text x="34" y="364" class="portrait" xml:space="preserve">==================+%@%##%@#**+================</text>
+<text x="34" y="377" class="portrait" xml:space="preserve">==================+#%%%%#*++*#+===============</text>
+<text x="34" y="390" class="portrait" xml:space="preserve">==================+#*+++++==+***+=============</text>
+<text x="34" y="403" class="portrait" xml:space="preserve">=================+#**+===--=+++++++===========</text>
+<text x="34" y="416" class="portrait" xml:space="preserve">================+***+==-----===+++++==========</text>
+<text x="34" y="429" class="portrait" xml:space="preserve">===============+++**+=-------=++++++++========</text>
+<text x="34" y="442" class="portrait" xml:space="preserve">=============+++++*++=------=+++++++++++======</text>
+<text x="34" y="455" class="portrait" xml:space="preserve">===========++++++++++==---=+++++++++++++++====</text>
+<text x="34" y="468" class="portrait" xml:space="preserve">=========+++++++++++=====++++++++++++++++*++==</text>
+  <text x="392" y="62" class="line"><tspan class="label">sajeetharan:</tspan><tspan class="muted"> ........... </tspan><tspan class="value">Sajeetharan</tspan></text><text x="392" y="82" class="line"><tspan class="label">Account:</tspan><tspan class="muted"> ............... </tspan><tspan class="value">13 years, 2 months</tspan></text><text x="392" y="102" class="line"><tspan class="label">Role:</tspan><tspan class="muted"> .................. </tspan><tspan class="value">Principal Product Manager</tspan></text><text x="392" y="122" class="line"><tspan class="label">Company:</tspan><tspan class="muted"> ............... </tspan><tspan class="value">Microsoft / Azure Cosmos DB</tspan></text><text x="392" y="142" class="line"><tspan class="label">Focus:</tspan><tspan class="muted"> ................. </tspan><tspan class="value">AI agents, databases, developer tools</tspan></text><text x="392" y="162" class="line"><tspan class="label">Cloud:</tspan><tspan class="muted"> ................. </tspan><tspan class="value">Azure, Cosmos DB, Kubernetes, Docker</tspan></text><text x="392" y="182" class="line"><tspan class="label">Languages:</tspan><tspan class="muted"> ............. </tspan><tspan class="value">TypeScript, JavaScript, Python, C#</tspan></text><text x="392" y="202" class="line"><tspan class="label">Frameworks:</tspan><tspan class="muted"> ............ </tspan><tspan class="value">Angular, React, Node.js, GraphQL</tspan></text><text x="392" y="222" class="line"><tspan class="label">Community:</tspan><tspan class="muted"> ............. </tspan><tspan class="value">GDE, Microsoft MVP, speaker</tspan></text><text x="392" y="252" class="section">Contact</text><text x="392" y="273" class="line"><tspan class="label">Website:</tspan><tspan class="muted"> ............... </tspan><tspan class="value">sajeetharan.dev</tspan></text><text x="392" y="293" class="line"><tspan class="label">LinkedIn:</tspan><tspan class="muted"> .............. </tspan><tspan class="value">linkedin.com/in/sajeetharan</tspan></text><text x="392" y="313" class="line"><tspan class="label">X:</tspan><tspan class="muted"> ..................... </tspan><tspan class="value">@kokkisajee</tspan></text><text x="392" y="333" class="line"><tspan class="label">YouTube:</tspan><tspan class="muted"> ............... </tspan><tspan class="value">@coffeewithazurecosmosdb</tspan></text><text x="392" y="363" class="section">GitHub Stats</text><text x="392" y="384" class="line"><tspan class="label">Repos:</tspan><tspan class="muted"> ................. </tspan><tspan class="value">378</tspan></text><text x="392" y="404" class="line"><tspan class="label">Stars:</tspan><tspan class="muted"> ................. </tspan><tspan class="value">295</tspan></text><text x="392" y="424" class="line"><tspan class="label">Followers:</tspan><tspan class="muted"> ............. </tspan><tspan class="value">614</tspan></text><text x="392" y="444" class="line"><tspan class="label">Contributions/year:</tspan><tspan class="muted"> .... </tspan><tspan class="value">1,465</tspan></text>
+  <text x="34" y="493" class="line"><tspan class="highlight" fill="#7ee787">$</tspan><tspan class="value"> building tools that help developers grow + thrive</tspan><tspan class="label">_</tspan></text>
+</svg>
