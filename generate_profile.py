@@ -143,7 +143,11 @@ def avatar_ascii() -> list[str]:
     )
     grayscale = ImageEnhance.Contrast(image.convert("L")).enhance(1.5)
     pixels = list(grayscale.tobytes())
-    color_pixels = list(image.getdata())
+    color_data = image.tobytes()
+    color_pixels = [
+        tuple(color_data[index : index + 3])
+        for index in range(0, len(color_data), 3)
+    ]
 
     def character(index: int) -> str:
         color = color_pixels[index]
